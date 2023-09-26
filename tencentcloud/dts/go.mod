@@ -1,4 +1,4 @@
-module github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dts
+module github.com/cococolanosugar/tencentcloud-sdk-go/tencentcloud/dts
 
 go 1.14
 
